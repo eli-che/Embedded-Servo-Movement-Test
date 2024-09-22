@@ -79,7 +79,3 @@ void loop() {
 
 ## License
 This project is open-source under the MIT License. Feel free to modify and distribute as needed.
-
----
-
-This `README.md` should help others understand and use your project. Let me know if you need any adjustments!
